@@ -1,0 +1,3 @@
+C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Source\Gacha\Gacha.Build.cs
+C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Source\Gacha.Target.cs
+C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Source\GachaEditor.Target.cs

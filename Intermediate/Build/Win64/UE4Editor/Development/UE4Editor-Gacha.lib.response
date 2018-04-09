@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Gacha.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Intermediate\Build\Win64\UE4Editor\Development\Gacha\Gacha.cpp.obj"
+"C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Intermediate\Build\Win64\UE4Editor\Development\Gacha\GachaGameModeBase.cpp.obj"
+"C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Intermediate\Build\Win64\UE4Editor\Development\Gacha\Gacha.init.gen.cpp.obj"
+"C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Intermediate\Build\Win64\UE4Editor\Development\Gacha\GachaGameModeBase.gen.cpp.obj"
+"D:\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Gacha\PCLaunch.rc.res"
+"D:\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Jean-Maxime\Documents\Unreal Projects\Gacha\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Gacha.lib"
